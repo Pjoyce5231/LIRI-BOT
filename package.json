@@ -1,0 +1,15 @@
+{
+  "name": "LIRI-BOT",
+  "version": "1.0.0",
+  "description": "sends requests to the imdb/twitter/spotify API's",
+  "main": "keys.js",
+  "scripts": {
+    "test": "Error: no test"
+  },
+  "author": "Patrick Joyce",
+  "dependencies": {
+    "request": "^2.75.0",
+    "spotify": "^0.3.0",
+    "twitter": "^1.4.0"
+  }
+}
